@@ -1,5 +1,5 @@
 # training1
-lad
+lad<sub>5</sub><sup>10</sup>
 ### WOW
 hello
 
