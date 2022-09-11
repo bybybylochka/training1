@@ -7,10 +7,8 @@
 ~~тюлениха~~
 lad<sub>5</sub><sup>10</sup>
 ### Git commands
-```git status 
-
-git add 
-
+```git status
+git add
 git commit```
 
 
