@@ -23,3 +23,4 @@ my [python file](https://github.com/bybybylochka/training1/blob/main/python.py)
    - fvbgnhj
 - [x] я
 - [ ] ты
+Im :+5:
