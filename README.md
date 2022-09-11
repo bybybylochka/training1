@@ -19,5 +19,5 @@ It is [my account](https://vk.com/liza.ponomaryova)
 ### my files
 my [python file](https://github.com/bybybylochka/training1/blob/main/python.py)
 1. hello
-   -ghnjmk,l
-   -fvbgnhj
+   - ghnjmk,l
+   - fvbgnhj
