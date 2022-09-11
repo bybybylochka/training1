@@ -15,41 +15,5 @@ git commit
 blue `#0969DA`
 # my contacts
 It is [my account](https://vk.com/liza.ponomaryova)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###### OOOOOOO
-goodbye
+### my files
+my [python file](docs/python.py)
