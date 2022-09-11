@@ -16,4 +16,4 @@ blue `#0969DA`
 # my contacts
 It is [my account](https://vk.com/liza.ponomaryova)
 ### my files
-my [python file](docs/python.py)
+my [python file](main/python.py)
