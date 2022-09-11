@@ -12,7 +12,7 @@ git status
 git add
 git commit
 ```
-
+blue `#RRGGBB`
 
 
 
