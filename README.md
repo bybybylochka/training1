@@ -1,6 +1,9 @@
 # training1
 **liza**
->*denis*<
+>*denis*      
+
+
+
 **liza and denis _love_ each other**
 ***im happy***
 ~~тюлениха~~
